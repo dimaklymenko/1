@@ -76,3 +76,5 @@ users = [
 ]
 
 print(get_upcoming_birthdays(prepare_user_list(users), 7))
+
+#  changes
